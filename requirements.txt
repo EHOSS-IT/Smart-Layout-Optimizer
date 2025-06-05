@@ -1,0 +1,6 @@
+streamlit>=1.35.0
+ezdxf>=1.1.1
+shapely>=2.0.0
+rectpack>=0.2.2
+matplotlib>=3.8.0
+numpy>=1.26.0
